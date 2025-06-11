@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+=========================
+AAPL: 5 shares @ $180 = $900
+TSLA: 8 shares @ $250 = $2000
+NVDA: 6 shares @ $1100 = $6600
+=========================
+TOTAL VALUE: $9500.00
